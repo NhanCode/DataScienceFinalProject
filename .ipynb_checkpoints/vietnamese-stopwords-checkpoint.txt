@@ -5,7 +5,6 @@ tôi
 anh
 chị
 em
-bạn
 chú
 ba
 bố
@@ -16,8 +15,6 @@ dì
 gì
 cô
 bác
-ông
-bà
 sĩ
 sỹ
 BS
@@ -78,5 +75,3 @@ nè
 rồi
 thì
 vẫn
-ơi
-à
